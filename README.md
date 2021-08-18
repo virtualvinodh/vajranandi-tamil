@@ -1,4 +1,4 @@
-# Arishtanemi Tamil
+# Vajranandi Tamil
 
 An alternative imagination of the Tamil script had it evolved like the nothern Indic scripts with a shared serif exending as a horizontal line over the characters.
 
@@ -22,4 +22,4 @@ You can read the font documentation [here](http://www.virtualvinodh.com/projects
 
 # Demo #
 
-You can find various texts rendered both in Vajranandi [here](https://virtualvinodh.github.io/vajranandi-tamil/test_page_vajranandi.html)
+You can find various texts rendered in Vajranandi [here](https://virtualvinodh.github.io/vajranandi-tamil/test_page_vajranandi.html)
